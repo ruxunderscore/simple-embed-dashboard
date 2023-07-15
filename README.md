@@ -2,7 +2,7 @@
 Simple website built to display 3 embedded websites. Some websites will have default configurations to not allow them to be embedded with iframes, which can be fixed depending on your hosted website. 
 
 ## Example
-![image](images/example.png)
+![image](images/demo.png)
 
 In the example, I have a Grafana dashboard, Uptime Kuma, and Speedtest Tracker embedded. 
 
