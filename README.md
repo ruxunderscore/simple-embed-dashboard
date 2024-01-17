@@ -4,6 +4,6 @@ Simple website built to display 3 embedded websites. Some websites will have def
 ## Example
 ![image](images/demo.png)
 
-In the example, I have a Grafana dashboard, Uptime Kuma, and Speedtest Tracker embedded. 
+In the example, I have 2 Grafana dashboards (One monitoring pihole and the other internet speeds.) and Uptime Kuma. 
 
 For Grafana, I needed to enable anonymous access and allow embedding in iframes. Then, I created a share link specifically for the dashboard I wanted. For Update Kuma, I also needed to disable iframe embed in the same origin only, with my setup. 
